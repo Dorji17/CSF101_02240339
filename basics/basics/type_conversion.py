@@ -2,12 +2,11 @@ age = 25  # Use the same age as in numbers.py
 age_str = str(age)
 message = "I am " + age_str + " years old."
 print(message)
-.
 
 num_str = "42"
 num_int = int(num_str)
 print(num_int)
-Expected output: 42
+Expected : 42
 
 
 non_num_str = "Hello"
